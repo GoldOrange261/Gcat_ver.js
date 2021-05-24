@@ -1,0 +1,27 @@
+{
+    "name": "gcat_ver_js",
+    "version": "1.0.0",
+    "description": "gcat js ver",
+    "main": "bot.js",
+    "scripts": {
+        "test": "clear && nodemon bot.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GoldOrange261/Gcat_ver.js.git"
+    },
+    "keywords": [
+        "gcat"
+    ],
+    "author": "GoldOrange261",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/GoldOrange261/Gcat_ver.js/issues"
+    },
+    "homepage": "https://github.com/GoldOrange261/Gcat_ver.js#readme",
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "dotenv": "^10.0.0",
+        "mysql": "^2.18.1"
+    }
+}
